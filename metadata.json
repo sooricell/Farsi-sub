@@ -1,0 +1,7 @@
+{
+  "name": "FarsiLiveSub",
+  "description": "Real-time English to Farsi subtitle generator using Gemini Live API. Captures system audio and provides instant translation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
